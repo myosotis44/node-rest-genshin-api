@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Zhongli",
+        "sexe": "M",
+        "element": "Geo",
+        "weapon": "Lance",
+        "description": "<p>Consultant mystérieux invité par le Funérarium Wangsheng, ce beau jeune homme aux manières élégantes possède des connaissances qui vont bien au-delà de celles des gens ordinaires.<br> Bien que personne ne sache d'où il est originaire, Zhongli est coutumier de l'étiquette et des règles de la bienséance. Il effectue toutes sortes de cérémonies pour le compte du Funérarium Wangsheng.</p>",
+        "nation": "Liyue",
+        "imageUrl": "http://localhost:8081/pictures/Character_Zhongli_Card.jpg",
+        "rarity": 5
+    },
+    {
+        "id": 2,
+        "name": "Keqing",
+        "sexe": "F",
+        "element": "Electro",
+        "weapon": "Epée",
+        "description": "<p>L'Alioth, l'une des Sept Étoiles de Liyue. L'Alioth critique à mots couverts l'idée que Liyue suive à la lettre la parole du Seigneur de la Roche ; mais ce dernier apprécie justement ce genre de personnes.</p><p>Keqing croit fermement en l'idée que l'humanité devrait être responsable de son propre destin, et qu'elle en est capable. Et elle n'hésite pas à travailler deux fois plus que n'importe qui pour prouver qu'elle a raison.</p>",
+        "nation": "Liyue",
+        "imageUrl": "http://localhost:8081/pictures/Character_Keqing_Card.jpg",
+        "rarity": 5
+    },
+    {
+        "id": 3,
+        "name": "Raiden Shogun",
+        "sexe": "F",
+        "element": "Electro",
+        "weapon": "Lance",
+        "description": "<p>La Shogun Raiden, la plus puissante incarnation du tonnerre en ce monde, règne de manière incontestée sur le Shogunat d'Inazuma.<br>Détentrice de la puissance du tonnerre, elle poursuit sa recherche solitaire de l'éternité.</p>",
+        "nation": "Inazuma",
+        "rarity": "5"
+    },
+    {
+        "id": 4,
+        "name": "Venti",
+        "sexe": "M",
+        "element": "Anemo",
+        "weapon": "Arc",
+        "description": "<p>Un barde inconnu qui chante des vieux poèmes oubliés certaines fois, et des poèmes que personne n'avait jamais entendus auparavant d'autres fois.<br> Venti aime les pommes et les lieux animés. Cependant, il a horreur&nbsp;du fromage et des choses gluantes.<br> Ses pouvoirs Anémo se manifestent souvent sous la forme de plumes, car il apprécie beaucoup les objets légers et flottants.</p>",
+        "nation": "Mondstadt",
+        "imageUrl": "http://localhost:8081/pictures/Character_Venti_Card.jpg",
+        "rarity": 5
+    }
+]
